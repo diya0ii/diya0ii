@@ -11,7 +11,7 @@
 
 <img align="right" src="https://camo.githubusercontent.com/3f99f3a94add3763271f7a2985fca0e6ffe27530407d3e00182298bec6fc2a1f/68747470733a2f2f696d616765732d63646e2e65786368616e67652e6172742f71736871677230636a716d723570684431744b2d33676e6f6859576d66635877783656576e6b32376f33383f6578743d666173746c79266f7074696d697a653d6d656469756d276a706720" width="200"> 
 
-- 👋 Hi, I'm [@diya0ii](https://github.com/monis-codes)
+- 👋 Hi, I'm [@diya0ii](https://github.com/diya0ii)
 - 💻 Passionate about building impactful web applications and solving complex problems with stunning Designs
 - 🎯 Currently focusing on competitive programming and full-stack development integrating AI technologies
 - 🌱 Always exploring new technologies and frameworks
