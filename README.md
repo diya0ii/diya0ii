@@ -57,13 +57,9 @@ const diya = {
 </div>
 
 ### 🎖️ Competitive Programming & Achievements
-- 🏅 **LeetCode**: 100+ problems solved 
+- 🏅 **LeetCode**: 50+ problems solved 
 - 🥉 **Finalist (Top 9) out of 250+ teams** – Quazar 2.0 Hackathon
 
-### 🔥 GitHub Trophies
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=diya0ii&theme=radical&no-frame=true&no-bg=false&margin-w=4)](https://github.com/diya0ii)
 
 </div>
 </div>
