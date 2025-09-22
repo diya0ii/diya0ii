@@ -56,10 +56,7 @@ const diya = {
   <img alt="GitHub Snake" src="https://github.com/diya0ii/diya0ii/blob/output/github-contribution-grid-snake-dark.svg" />
 
   <br/><br/>
-  <!-- GitHub Stats -->
-  <a href="https://github.com/diya0ii">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diya0ii&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-  </a>
+  
 </div>
 
 ### 📊 GitHub Activity
