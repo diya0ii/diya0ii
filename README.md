@@ -39,7 +39,10 @@ const diya = {
 ## 🏆 Achievements & Stats
 
 <div align="center">
-  
+
+  <div align="center">
+    <img alt="snek" src="https://github.com/diya0ii/diya0ii/blob/main/github-contribution-grid-snake-dark.svg" />
+  </div>
   
 
 <br/>
