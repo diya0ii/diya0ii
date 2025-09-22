@@ -53,7 +53,7 @@ const diya = {
 <div align= "center">
 
   <!-- Snake animation -->
-  <img alt="snek" src="https://raw.githubusercontent.com/diya0ii/diya0ii/main/github-contribution-grid-snake-dark.svg" />
+  <img alt="GitHub Snake" src="https://github.com/diya0ii/diya0ii/blob/output/github-contribution-grid-snake-dark.svg" />
 
   <br/><br/>
   <!-- GitHub Stats -->
