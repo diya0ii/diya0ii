@@ -1,0 +1,24 @@
+name: Update Snake
+on:
+  schedule:
+    - cron: '0 0 * * *' # runs daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Generate GitHub Contribution Snake
+        run: |
+          git clone https://github.com/Platane/snk.git
+          cd snk
+          npm install
+          node index.js --user diya0ii --output ../github-contribution-grid-snake-dark.svg --theme dark
+      - name: Commit & Push
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add ../github-contribution-grid-snake-dark.svg
+          git commit -m "Update GitHub Snake"
+          git push
