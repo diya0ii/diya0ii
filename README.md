@@ -40,9 +40,7 @@ const diya = {
 
 <div align="center">
 
-  <div align="center">
-    <img alt="snek" src="https://github.com/diya0ii/diya0ii/blob/main/github-contribution-grid-snake-dark.svg" />
-  </div>
+
   
 
 <br/>
@@ -50,6 +48,18 @@ const diya = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diya0ii&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </a>
 
+</div>
+
+<div align= "center">
+
+  <!-- Snake animation -->
+  <img alt="snek" src="https://raw.githubusercontent.com/diya0ii/diya0ii/main/github-contribution-grid-snake-dark.svg" />
+
+  <br/><br/>
+  <!-- GitHub Stats -->
+  <a href="https://github.com/diya0ii">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diya0ii&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  </a>
 </div>
 
 ### 📊 GitHub Activity
