@@ -50,15 +50,6 @@ const diya = {
 
 </div>
 
-<div align= "center">
-
-  <!-- Snake animation -->
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/diya0ii/diya0ii/main/github-contribution-grid-snake-dark.svg" />
-
-
-  <br/><br/>
-  
-</div>
 
 ### 📊 GitHub Activity
 <div align="center">
